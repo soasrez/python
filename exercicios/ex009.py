@@ -2,6 +2,8 @@ n1 = int(input('Digite o número para saber a tabuada: '))
 
 print('Tabuada do {}'.format(n1))
 
+print("-" * 12)
+
 print(n1*1)
 print(n1*2)
 print(n1*3)
@@ -12,3 +14,5 @@ print(n1*7)
 print(n1*8)
 print(n1*9)
 print(n1*10)
+
+print("-" * 12)
